@@ -5,7 +5,7 @@ import NewArrivals from './component/NewArrivals'
 import InstagramSection from './component/InstagramSection'
 import './App.css';
 import Slider from './component/Slider';
-import Testimonials from './component/testimonial';
+import Testimonials from './component/Testimonial';
 import Newsletter from './component/Newsletter';
 import Footer from './component/Footer';
 import Deals from './component/Deals';
